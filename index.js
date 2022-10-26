@@ -11,7 +11,7 @@ console.clear()
 // Bot Ready Message - Runs when bot logs in
 bot.on("ready", () => {
     console.log(`Bot logged in successfully`);
-	bot.user.setActivity("Doin ya mom")
+	bot.user.setActivity("Project: Chino's Chaos")
 });
 
 // Command Listener
